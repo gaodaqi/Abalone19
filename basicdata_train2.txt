@@ -1,0 +1,181 @@
+numerror(1)=659 6 428 1
+numerror(2)=611 5 530 1
+numerror(3)=559 4 596 1
+numerror(4)=669 5 674 1
+numerror(5)=644 4 788 1
+numerror(6)=675 4 855 1
+numerror(7)=650 3 940 1
+(p, q)=21, 1159
+numerror(1)=563 5 402 1
+numerror(2)=564 5 403 1
+numerror(3)=573 5 429 1
+numerror(4)=574 5 432 1
+numerror(5)=570 5 421 1
+(p, q)=21, 535
+numerror(1)=714 7 317 1
+numerror(2)=712 7 310 1
+numerror(3)=713 7 313 1
+numerror(4)=714 7 317 1
+numerror(5)=714 7 317 1
+numerror(6)=715 7 318 1
+(p, q)=21, 249
+numerror(1)=602 6 257 1
+numerror(2)=605 6 264 1
+numerror(3)=603 6 259 1
+numerror(4)=606 6 268 1
+numerror(5)=608 6 274 1
+(p, q)=21, 127
+numerror(1)=870 8 519 1
+numerror(2)=754 7 445 1
+numerror(3)=731 7 371 1
+numerror(4)=922 9 353 1
+numerror(5)=919 9 340 1
+numerror(6)=927 9 371 1
+numerror(7)=1025 10 340 1
+(p, q)=21, 63
+numerror(1)=1379 9 1583 1
+numerror(2)=1373 8 1678 1
+numerror(3)=1346 8 1633 1
+numerror(4)=1375 9 1575 1
+numerror(5)=1321 9 1470 1
+numerror(6)=1308 9 1443 1
+numerror(7)=1299 9 1425 1
+numerror(8)=1291 9 1408 1
+numerror(9)=1344 10 1362 1
+numerror(10)=1337 10 1346 1
+numerror(11)=1321 10 1306 1
+numerror(12)=1317 10 1297 1
+num(1,2)=42
+minnumerror02(1,2)=4  596  600
+4  596
+0  363
+2  0
+0  233
+2  0
+600
+runtime(1,2)=0.465
+
+ n_tr3=
+
+1  6  6  1
+7  369  363  2
+370  371  2  3
+372  1167  796  4
+1168  1178  11  5
+1179  1411  233  6
+1412  1413  2  7
+1414  2782  1369  8
+
+numerror11(1 1)=206.836 2 117 1
+numerror11(1 2)=196.445 2 90 1
+numerror11(1 4)=201.434 2 103 1
+numerror11(1 6)=124.117 1 111 1
+numerror11(1 8)=214.214 2 136 1
+numerror11(1 10)=133.511 1 134 1
+numerror11(1 10)=133.511 1 134 1
+(p, q)=6, 138
+numerror11(2 1)=198.744 2 96 1
+numerror11(2 2)=198.744 2 96 1
+numerror11(2 4)=199.128 2 97 1
+numerror11(2 6)=199.512 2 98 1
+numerror11(2 6)=199.512 2 98 1
+(n, minnumerror3)=(16, 124.117, 1, 111)
+num(1,2,1)=16
+
+numerror11(1 1)=43.4733 0 78 1
+numerror11(1 2)=43.0559 0 77 1
+numerror11(1 4)=46.3994 0 85 1
+numerror11(1 6)=51.4333 0 97 1
+numerror11(1 6)=51.4333 0 97 1
+(p, q)=2, 385
+numerror11(2 1)=35.9835 0 60 1
+numerror11(2 2)=36.8132 0 62 1
+numerror11(2 4)=38.4746 0 66 1
+numerror11(2 5)=38.8903 0 67 1
+(p, q)=2, 173
+numerror11(3 1)=32.2572 0 51 1
+numerror11(3 2)=31.8439 0 50 1
+numerror11(3 4)=31.4308 0 49 1
+numerror11(3 6)=31.8439 0 50 1
+numerror11(3 8)=32.6706 0 52 1
+numerror11(3 9)=33.4979 0 54 1
+(p, q)=2, 82
+numerror11(4 1)=29.3674 0 44 1
+numerror11(4 2)=97.2132 1 44 1
+numerror11(4 4)=98.4034 1 47 1
+numerror11(4 5)=99.1977 1 49 1
+(p, q)=2, 38
+numerror11(9 1)=90.4937 1 27 1
+numerror11(9 2)=95.2325 1 39 1
+numerror11(9 4)=96.0243 1 41 1
+numerror11(9 5)=95.6283 1 40 1
+(n, minnumerror3)=(30, 29.3674, 0, 44)
+num(1,2,2)=30
+
+numerror11(1 1)=460.357 5 99 1
+numerror11(1 2)=453.046 5 76 1
+numerror11(1 4)=458.125 5 92 1
+numerror11(1 6)=368.837 4 95 1
+numerror11(1 8)=371.569 4 103 1
+numerror11(1 10)=292.591 3 124 1
+numerror11(1 12)=292.591 3 124 1
+numerror11(1 13)=379.473 4 126 1
+(p, q)=11, 56
+numerror11(7 1)=463.238 5 108 1
+numerror11(7 2)=556.605 6 107 1
+numerror11(7 4)=554.523 6 100 1
+numerror11(7 5)=553.929 6 98 1
+(n, minnumerror3)=(18, 287.836, 3, 111)
+num(1,2,3)=18
+
+numerror11(1 1)=38.8903 0 67 1
+numerror11(1 2)=40.1383 0 70 1
+numerror11(1 4)=43.0559 0 77 1
+numerror11(1 5)=43.4733 0 78 1
+(p, q)=2, 524
+numerror11(2 1)=29.7798 0 45 1
+numerror11(2 2)=29.7798 0 45 1
+numerror11(2 4)=29.3674 0 44 1
+numerror11(2 6)=30.1923 0 46 1
+numerror11(2 8)=30.605 0 47 1
+numerror11(2 8)=30.605 0 47 1
+(p, q)=2, 236
+numerror11(3 1)=22.7901 0 28 1
+numerror11(3 2)=23.2001 0 29 1
+numerror11(3 4)=23.6102 0 30 1
+numerror11(3 5)=24.8414 0 33 1
+(p, q)=2, 104
+numerror11(4 1)=19.1073 0 19 1
+numerror11(4 2)=19.5159 0 20 1
+numerror11(4 4)=19.9246 0 21 1
+numerror11(4 5)=19.9246 0 21 1
+(p, q)=2, 42
+numerror11(10 1)=17.8824 0 16 1
+numerror11(10 2)=18.6988 0 18 1
+numerror11(10 4)=19.5159 0 20 1
+numerror11(10 5)=87.7393 1 20 1
+(n, minnumerror3)=(28, 17.8824, 0, 16)
+num(1,2,4)=28
+
+minnumerror3_1(1,2,3,4)=112 44 114 16, sum=286
+minnumerror2(1,2)=minnumerror2(1)=230
+minnumerror4(1, 2, 3, 4)=112 2 114 2, sum=230
+8  222
+1  111
+2  0
+3  111
+2  0
+230
+minnumerror2(1,2)=minnumerror2(1)=230
+minnumerror4(1, 2, 3, 4)=112 2 114 2, sum=230
+runtime(1,2)=1.037
+runtime(1,2)=1.048
+
+minnumerror2(1,2)=minnumerror2(1)=600
+600  
+runtime(1,2)=1.067
+
+minnumerror2= 600  
+Total runtime=1.067  
+Trial-and-error epochs=134  
+sum(n000)=134
